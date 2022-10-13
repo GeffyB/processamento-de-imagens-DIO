@@ -15,7 +15,7 @@ setup(
     description = "Pacote para Processamento de imagens",
     long_description = page_description,
     long_description_content_type = "text/markdown",
-    url = "https://github.com/GeffyB/processamento-de-imagens-DIO.git"
+    url = "https://github.com/GeffyB/processamento-de-imagens-DIO",
     packages = find_packages(),
     install_requires = requirements,
     python_requires = '>=3.8',
