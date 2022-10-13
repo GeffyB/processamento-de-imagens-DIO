@@ -23,7 +23,7 @@ O pacote '**processamento_de_imagem**' pode ser usado para:
 Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalação do pacote '**processamento_de_imagem**':
 
 ```bash
-pip install package_name
+pip install processamento_de_imagens
 ```
 
 ## Uso:
